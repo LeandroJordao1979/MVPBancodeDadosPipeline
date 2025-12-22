@@ -30,7 +30,7 @@ https://colab.research.google.com/github/LeandroJordao1979/MVPBancodeDadosPipeli
 ---
 
 ## 📌 Observações
-- O notebook do Databricks foi exportado em formato **HTML** para visualização direta.  
+- O notebook do Databricks foi exportado em formato **.ipynb** para visualização direta.  
 - O notebook do Colab está disponível em link público para complementar as análises.  
 - Os diagramas MER e Estrela foram adicionados como imagens para documentação visual do modelo de dados.  
 
