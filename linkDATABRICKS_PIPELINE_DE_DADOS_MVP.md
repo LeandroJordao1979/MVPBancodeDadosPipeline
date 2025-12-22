@@ -12,7 +12,8 @@ https://colab.research.google.com/github/LeandroJordao1979/MVPBancodeDadosPipeli
 ## 🔗 Notebooks
   
 - **Databricks Notebook Exportado**
-  👉 [Visualizar Notebook Databricks IPYNB](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MVP_PIPELINE_DE_DADOSNotebook.ipynb)
+  👉 [Visualizar Notebook Databricks IPYNB](LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MVP_PIPELINE_DE_DADOSNotebook.ipynb)
+
 
  - **Google Colab Notebook - análise do dataset**  
   👉 [Visualizar Notebook Colab](https://colab.research.google.com/drive/1FH8rrqgT1_hAwDeAcInWAvMP7dTpOuE_#scrollTo=H8ulV-z2hrA-)
