@@ -21,6 +21,8 @@ https://colab.research.google.com/github/LeandroJordao1979/MVPBancodeDadosPipeli
 
 ## 📐 Diagramas
 
+![Diagrama IMG DATABRICKS](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/Captura%20de%20tela%202025-12-21%20232723.png?raw=true)
+
 ### 🔹 Modelo Entidade-Relacionamento (MER)
 ![Diagrama MER](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MER%20trabalho%20MVP%20Banco%20de%20Dados.png?raw=true)
 
