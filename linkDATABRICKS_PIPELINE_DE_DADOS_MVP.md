@@ -25,7 +25,7 @@ https://colab.research.google.com/github/LeandroJordao1979/MVPBancodeDadosPipeli
 ![Diagrama MER](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MER%20trabalho%20MVP%20Banco%20de%20Dados.png?raw=true)
 
 ### 🔹 Modelo Estrela
-![Diagrama Estrela](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/Estrela%20trabalho%20MVP%20Banco%20de%20Dados.png?raw=true)
+![Diagrama Estrela](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/Diagrama%20ESTRELA.png?raw.true)
 
 ---
 
