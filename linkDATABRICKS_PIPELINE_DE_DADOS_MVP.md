@@ -8,9 +8,10 @@ https://dbc-6361b7d6-4adb.cloud.databricks.com/editor/notebooks/1065210799045732
 ## 🔗 Notebooks
 
 - **Databricks Notebook Exportado**  
-  👉 [Visualizar Notebook Databricks](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MVP_PIPELINE_DE_DADOSNotebook.ipynb)
-  .
-  👉 [Visualizar Notebook Databricks](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MVP_HTML_PIPELINE_DE_DADOSNotebook.html)
+  👉 [Visualizar Notebook Databricks IPYNB](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MVP_PIPELINE_DE_DADOSNotebook.ipynb)
+
+  ---
+  👉 [Visualizar Notebook Databricks HTML](https://github.com/LeandroJordao1979/MVPBancodeDadosPipeline/blob/main/MVP_HTML_PIPELINE_DE_DADOSNotebook.html)
   
 
 - **Google Colab Notebook**  
